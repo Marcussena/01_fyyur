@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 babel
 python-dateutil==2.6.0
 flask-moment
+=======
+babel
+python-dateutil==2.6.0
+flask-moment
+>>>>>>> f685772d17e8debdb4159f3af11e2cccf0bdfd83
 flask-wtf
